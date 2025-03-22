@@ -5,8 +5,12 @@ I specialized in building scalable web and mobile applications for public admini
 
 ## 🚀 Technologies & Tools
 
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Ionic](https://img.shields.io/badge/Ionic-%2300B4FF.svg?style=flat&logo=ionic&logoColor=white)](https://ionicframework.com/)
 [![Capacitor](https://img.shields.io/badge/Capacitor-000?logo=capacitor&logoColor=blue)](https://capacitorjs.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=flat&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
