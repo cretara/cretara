@@ -12,8 +12,6 @@ I specialized in building scalable web and mobile applications for public admini
 [![Capacitor](https://img.shields.io/badge/Capacitor-000?logo=capacitor&logoColor=blue&style=for-the-badge)](https://capacitorjs.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)](https://www.oracle.com/)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/idea/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
 
@@ -59,8 +57,10 @@ I specialized in building scalable web and mobile applications for public admini
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
 
 # Cloud & DevOps
-- Cloud Platforms: AWS, Google Cloud
-- CI/CD: GitHub Actions, Jenkins
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
 # Version Control Systems
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
@@ -68,8 +68,7 @@ I specialized in building scalable web and mobile applications for public admini
 
 # 💼 About Me
 
-I have more than 18 years of experience as a full-stack engineer, architect, and developer. Throughout my career, I've taken on challenging projects that have tested my creativity, team building, and [...]
-I have a deep admiration for the technologies, frameworks, and open-source platforms that have powered my creations. The open-source ecosystem is a vibrant community of brilliant minds collaborating t[...]
+I have more than 18 years of experience as a full-stack engineer, architect, and developer. Throughout my career, I've taken on challenging projects that have tested my creativity, team-building, and problem-solving skills. I enjoy learning and am passionate about building great products with the latest technologies. I have a deep admiration for the technologies, frameworks, and open-source platforms that have powered my creations. The open-source ecosystem is a vibrant community of brilliant minds collaborating and sharing knowledge.
 
 # 🌐 Portfolio
 [Cretara.dev portfolio site](https://cretara.dev)
