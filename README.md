@@ -28,6 +28,7 @@ I specialized in building scalable web and mobile applications for public admini
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)]()
 [![PLSQL](https://img.shields.io/badge/PLSQL-527FFF?logo=oracle&logoColor=white&style=for-the-badge)](https://www.oracle.com/database/technologies/appdev/plsql.html)
 [![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/docs/current/plpgsql.html)
+[![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)]()
 [![TCL](https://img.shields.io/badge/TCL-FFCC00?logo=tcl&logoColor=black&style=for-the-badge)]()
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)]()
@@ -37,7 +38,6 @@ I specialized in building scalable web and mobile applications for public admini
 [![ASP](https://img.shields.io/badge/ASP-008000?logo=asp&logoColor=white&style=for-the-badge)]()
 
 # 📚 Known Frameworks and Technologies
-
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)](https://angular.io/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
@@ -56,6 +56,18 @@ I specialized in building scalable web and mobile applications for public admini
 [![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white&style=for-the-badge)](https://www.drupal.org/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
 
+# Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![Firebird](https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge&logo=firebird&logoColor=white)](https://firebirdsql.org/)
+[![H2](https://img.shields.io/badge/H2-0066B8?style=for-the-badge&logo=h2&logoColor=white)](https://www.h2database.com/)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+
 # Cloud & DevOps
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
@@ -68,7 +80,7 @@ I specialized in building scalable web and mobile applications for public admini
 
 # 💼 About Me
 
-I have more than 18 years of experience as a full-stack engineer, architect, and developer. Throughout my career, I've taken on challenging projects that have tested my creativity, team-building, and problem-solving skills. I enjoy learning and am passionate about building great products with the latest technologies. I have a deep admiration for the technologies, frameworks, and open-source platforms that have powered my creations. The open-source ecosystem is a vibrant community of brilliant minds collaborating and sharing knowledge.
+I have more than 18 years of experience as a full-stack engineer, architect, and developer. Throughout my career, I've taken on challenging projects that have tested my creativity, team-building, [...]
 
 # 🌐 Portfolio
 [Cretara.dev portfolio site](https://cretara.dev)
